@@ -15,8 +15,12 @@ $ npm run dev
 $ npm run build
 $ npm start
 
+# 测试
+更改内容提交
+
 # generate static project
 $ npm run generate
 ```
+
 
 For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
